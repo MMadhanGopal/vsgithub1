@@ -7,6 +7,7 @@ namespace vsgithub1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("These job is very good");
         }
     }
 }
